@@ -16,18 +16,7 @@ public class Piece {
 	
 	protected Board getBoard() {
 		return board;
-	}
-
-	public Piece[][] possibleMoves(){
-		
-	}
+	}	
 	
-	public boolean possibleMove(Position position) {
-		return false;
-	}
-	
-	public boolean isThereAnyPossibleMove() {
-		return false;
-	}
 	
 }
